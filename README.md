@@ -31,8 +31,7 @@ Then, the notebook can be executed.
 
 To ensure the reproducibility of the code and to ease the execution of the notebook without installing any dependencies we have uploaded the notebook to [Google Colab](https://colab.research.google.com/).
 
-FIX THIS LINK -->
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RTDpM6g_OEGsAveRlmINxlv6dAU7gmkD?usp=sharing)
 
 The notebook in Colab directly downloads the Github repository so there is no need to download it to the local machine.
 
