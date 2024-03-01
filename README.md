@@ -10,7 +10,7 @@ We provide the steps to execute the notebook on a local environment, but we heav
 
 ## Execution on a local machine
 
-The dependencies to run this notebook are the same as the original repository, as such, download the original repository of the SYMHnet paper at the tag of the submission (https://github.com/ccsc-tools/SYMHnet/releases/tag/v1.0). At the time of publishing this repository, the only comment ahead of the tag only includes the DOI of the repository (https://github.com/ccsc-tools/SYMHnet/compare/v1.0...main).
+The dependencies to run this notebook are the same as the original repository, as such, download the original repository of the SYMHnet paper at the tag of the submission (https://github.com/ccsc-tools/SYMHnet/releases/tag/v1.0). At the time of publishing this repository, the only comment ahead of the tag only includes the DOI of the repository (https://github.com/ccsc-tools/SYMHnet/compare/v1.0...main). It can also be downloaded from the zenodo DOI: https://zenodo.org/records/10602518.
 
 Then navigate to the downloaded folder and install the dependecies similar to the original repository
 
